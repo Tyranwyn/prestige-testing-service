@@ -1,0 +1,3 @@
+server:
+ port: ${PORT:6666}
+ servlet-path: /ask
